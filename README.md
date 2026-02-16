@@ -69,12 +69,13 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Narankhadka&theme=default" />
+<img src="https://streak-stats.demolab.com?user=Narankhadka&theme=default" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Narankhadka&layout=compact&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narankhadka&layout=compact&theme=default" />
 </p>
+
 
 ---
 
