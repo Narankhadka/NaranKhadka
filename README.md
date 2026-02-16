@@ -65,16 +65,17 @@
 ### GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Narankhadka&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Narankhadka&show_icons=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Narankhadka&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=Narankhadka&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narankhadka&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narankhadka&layout=compact&cache_seconds=1800" />
 </p>
+
 
 
 ---
