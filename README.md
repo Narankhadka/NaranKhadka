@@ -64,17 +64,14 @@
 
 ### GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narankhadka&show_icons=true&cache_seconds=1800" />
-</p>
+### GitHub Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Narankhadka&cache_seconds=1800" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Narankhadka&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narankhadka&layout=compact&cache_seconds=1800" />
-</p>
+![Streak](https://streak-stats.demolab.com?user=Narankhadka)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narankhadka&layout=compact)
+
 
 
 
