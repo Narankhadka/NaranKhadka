@@ -66,11 +66,8 @@
 
 ### GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Narankhadka&show_icons=true)
-
 ![Streak](https://streak-stats.demolab.com?user=Narankhadka)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narankhadka&layout=compact)
 
 
 
