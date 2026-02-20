@@ -58,18 +58,8 @@
 - Git  
 - AWS  
 - Maven  
-- Postman  
-
----
-
-### GitHub Statistics
-
-![Streak](https://streak-stats.demolab.com?user=Narankhadka)
-
-
-
-
-
+- Postman
+  
 ---
 
 ### Career Objective
