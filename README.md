@@ -1,5 +1,5 @@
 <h1 align="center">Naran Khadka</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot | Nepal</h3>
+<h3 align="center">Python Django Developer | AI/ML Enthusiast | Nepal</h3>
 
 <p align="center">
   <a href="https://twitter.com/narankhadka17" target="blank">
@@ -14,9 +14,9 @@
 
 ### About Me
 
-- Backend Developer focused on building scalable REST APIs and E-commerce systems  
-- Currently improving skills in **Java, Spring Boot, Django, and System Design**  
-- Strong interest in backend architecture and database design  
+- Python Django Developer focused on building scalable web applications and APIs  
+- Exploring **AI/ML, Data Science, and Intelligent Systems**  
+- Strong interest in backend architecture, machine learning, and real-world problem solving  
 - Portfolio: https://www.narankhadka.com.np/  
 - Email: khadkan855@gmail.com  
 
@@ -37,12 +37,12 @@
 
 ### Technical Skills
 
-#### Backend
-- Java  
-- Spring Boot  
+#### Backend & AI
 - Python  
 - Django  
 - REST API Development  
+- Machine Learning (Basics)  
+- Data Analysis  
 
 #### Frontend
 - React  
@@ -57,11 +57,11 @@
 #### Tools & Technologies
 - Git  
 - AWS  
-- Maven  
-- Postman
-  
+- Docker (Learning)  
+- Postman  
+
 ---
 
 ### Career Objective
 
-To grow as a professional Backend Engineer specializing in scalable systems, clean architecture, and cloud-based solutions.
+To grow as a Python Developer specializing in Django, AI/ML, and building intelligent, scalable, and impactful applications.
